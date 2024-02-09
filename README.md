@@ -1,31 +1,44 @@
 <h1 align="center">Hello there🌇, I'm Oskar 🦦</h1>
 <h3 align="center">I am a third-year student at the Wroclaw University of Science and Technology, <br /> majoring in IT Automation Systems.</h3>
 
-- 🏡 I’m currently working on ***Smart Home model, Pokemon TeamBuilder Web App and a few more***
+- 🏡 I’m currently working on ***Smart Home model***, ***Pokemon TeamBuilder Web App*** and a few more
 
-- 🌱 I’m currently learning more about ***Embedded Systems, AI Algorithms with TensorFlow***
+- 🌱 I’m currently learning more about ***AI Algorithms, Embedded Systems***
 
 - 🤝 I'm a certified ***Python enjoyer***
 
-- 📗 I’m steadily improving in ***Django***
+- ⬆ I’m steadily improving in ***Django***
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <!-- Python Web Dev Stack -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-  <!-- Embedded Stack -->
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-  <!--  Data Stack-->
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-  <!-- Web Dev Stack  -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <!-- Software -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  </p>
+
+### Languages and Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-19247c?style=for-the-badge&logo=pandas&logoColor=white)
+![Pandas](https://img.shields.io/badge/NumPy-4DABCF?style=for-the-badge&logo=numpy&logoColor=white)
+
+![Cpp](https://img.shields.io/badge/C++-005aff?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-008184?style=for-the-badge&logo=arduino&logoColor=white)
+
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F74E28?style=for-the-badge&logo=git&logoColor=white)
+ <!-- ![Linux](https://img.shields.io/badge/Linux-FFFFFF?style=for-the-badge&logo=linux&logoColor=black) -->
+
+### I'm currently learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-ffa500?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+
+<!-- 
+### Languages and Tools:
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-19247c?style=flat&logo=pandas&logoColor=white)
+
+![Cpp](https://img.shields.io/badge/C++-005aff?style=flat&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/-005aff?style=flat&logo=c&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-008184?style=flat&logo=arduino&logoColor=white)
+### Currently learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-ffa500?style=flat&logo=tensorflow&logoColor=white)
+-->
