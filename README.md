@@ -1,9 +1,9 @@
 <h1 align="center">Hello there🌇, I'm Oskar 🦦</h1>
 <h3 align="center">I am a third-year student at the Wroclaw University of Science and Technology, <br /> majoring in IT Automation Systems.</h3>
 
-- 🏡 I’m currently working on ***Smart Home model, Pokémon TeamBuilder Web App and a few more***
+- 🏡 I’m currently working on ***Smart Home model, Beehive surveillance system, Pokémon TeamBuilder Web App***
 
-- 🌱 I’m currently learning more about ***AI Algorithms, Embedded Systems***
+- 🌱 I’m currently learning more about ***Embedded Systems and Communication Protocols***
 
 - 🤝 I'm a certified ***Python enjoyer***
 
@@ -26,9 +26,10 @@
 ![Git](https://img.shields.io/badge/Git-F74E28?style=for-the-badge&logo=git&logoColor=white)
  <!-- ![Linux](https://img.shields.io/badge/Linux-FFFFFF?style=for-the-badge&logo=linux&logoColor=black) -->
 
+<!-- 
 ### I'm currently learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-ffa500?style=for-the-badge&logo=tensorflow&logoColor=white)
-
+-->
 
 <!-- 
 ### Languages and Tools:
