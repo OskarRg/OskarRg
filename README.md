@@ -1,9 +1,9 @@
 <h1 align="center">Hello there🌇, I'm Oskar 🦦</h1>
 <h3 align="center">I am a third-year student at the Wroclaw University of Science and Technology, <br /> majoring in IT Automation Systems.</h3>
 
-- 🏡 I’m currently working on ***Smart Home model, Beehive surveillance system, Pokémon TeamBuilder Web App***
+- 🏡 I’m currently working on ***Beehive surveillance system, Pokémon TeamBuilder Web App and a few more***
 
-- 🌱 I’m currently learning more about ***Embedded Systems and Communication Protocols***
+- 🌱 I’m currently learning more about ***Embedded Systems and Communication Protocols, Scheduling Algorithms***
 
 - 🤝 I'm a certified ***Python enjoyer***
 
