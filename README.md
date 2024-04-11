@@ -3,7 +3,7 @@
 
 - 🏡 I’m currently working on ***Beehive overseeing system, Pokémon TeamBuilder Web App and a few more***
 
-- 🌱 I’m currently learning more about ***Embedded Systems and Communication Protocols, Scheduling Algorithms***
+- 🌱 I’m currently learning more about ***Embedded Systems and Communication Protocols***
 
 - 🤝 I'm a certified ***Python enjoyer***
 
